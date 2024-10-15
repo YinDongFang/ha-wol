@@ -1,6 +1,4 @@
-DOMAIN = "ha_wol"
-
-COORDINATOR = "coordinator"
-CONF_UPDATE_INTERVAL = "update_interval_seconds"
-DEVICES = "devices"
-UNDO_UPDATE_LISTENER = "undo_update_listener"
+DOMAIN = "pc_control"
+CONF_MAC = "mac"
+CONF_IP = "ip"
+CONF_SHUTDOWN_COMMAND = "shutdown_command"
